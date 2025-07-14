@@ -39,10 +39,7 @@ This end-to-end project analyzes employee attrition trends and predicts which em
 
 ---
 
-## 📊 Power BI Dashboard
 
-🔗 [Click here to view the interactive dashboard](#)  
-🖼️ Screenshots inside the `dashboard_screenshots/` folder
 
 ---
 
